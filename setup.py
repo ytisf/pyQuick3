@@ -28,7 +28,6 @@ if __name__ == '__main__':
         download_url='https://www.github.com/ytisf/pyQuick3',
         long_description=long_desc,
         packages=['pyQuick3'],
-        install_requires=required,
         platforms='any',
         classifiers=(
                 'Development Status :: 2 - Pre-Alpha',
